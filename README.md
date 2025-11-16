@@ -171,7 +171,79 @@ A large public portfolio of notebooks and projects covering:
 
 ---
 
+### 📊 Activity (Last 12 Months — Static Demo)
 
+> Static example chart (SVG). Update the month labels / bar heights as you like.
+
+<svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Activity (Last 12 Months - Static Demo)</title>
+  <desc id="desc">Static example bar chart for the last 12 months. Edit values to match your real activity if you want.</desc>
+
+  <!-- Background card -->
+  <rect x="0" y="0" width="700" height="260" fill="#0d1117" rx="12" />
+
+  <!-- Title -->
+  <text x="350" y="28" text-anchor="middle" fill="#c9d1d9" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Activity (Last 12 Months)
+  </text>
+
+  <!-- Axes -->
+  <line x1="60" y1="210" x2="660" y2="210" stroke="#30363d" stroke-width="2"/>
+  <line x1="60" y1="40" x2="60" y2="210" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Y-axis labels -->
+  <text x="52" y="214" text-anchor="end" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Low
+  </text>
+  <text x="52" y="50" text-anchor="end" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    High
+  </text>
+
+  <!-- Bars (fake / demo values, higher = more activity) -->
+  <!-- months: Dec 2024, Jan–Nov 2025 -->
+  <!-- baseline y = 210, height = "activity" value -->
+
+  <!-- Dec -->
+  <rect x="80" y="170" width="28" height="40" fill="#238636" rx="4" />
+  <!-- Jan -->
+  <rect x="128" y="155" width="28" height="55" fill="#2ea043" rx="4" />
+  <!-- Feb -->
+  <rect x="176" y="145" width="28" height="65" fill="#2ea043" rx="4" />
+  <!-- Mar -->
+  <rect x="224" y="160" width="28" height="50" fill="#238636" rx="4" />
+  <!-- Apr -->
+  <rect x="272" y="130" width="28" height="80" fill="#3fb950" rx="4" />
+  <!-- May -->
+  <rect x="320" y="140" width="28" height="70" fill="#2ea043" rx="4" />
+  <!-- Jun -->
+  <rect x="368" y="120" width="28" height="90" fill="#3fb950" rx="4" />
+  <!-- Jul -->
+  <rect x="416" y="125" width="28" height="85" fill="#3fb950" rx="4" />
+  <!-- Aug -->
+  <rect x="464" y="140" width="28" height="70" fill="#2ea043" rx="4" />
+  <!-- Sep -->
+  <rect x="512" y="110" width="28" height="100" fill="#3fb950" rx="4" />
+  <!-- Oct -->
+  <rect x="560" y="100" width="28" height="110" fill="#3fb950" rx="4" />
+  <!-- Nov -->
+  <rect x="608" y="115" width="28" height="95" fill="#2ea043" rx="4" />
+
+  <!-- Month labels -->
+  <text x="94"  y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Dec</text>
+  <text x="142" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Jan</text>
+  <text x="190" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Feb</text>
+  <text x="238" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Mar</text>
+  <text x="286" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Apr</text>
+  <text x="334" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">May</text>
+  <text x="382" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Jun</text>
+  <text x="430" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Jul</text>
+  <text x="478" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Aug</text>
+  <text x="526" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Sep</text>
+  <text x="574" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Oct</text>
+  <text x="622" y="230" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Nov</text>
+</svg>
+
+--
 
 ### 💼 For Recruiters & Hiring Managers
 
