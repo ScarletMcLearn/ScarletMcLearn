@@ -14,6 +14,7 @@
   <a href="https://github.com/ScarletMcLearn">GitHub</a> •
   <a href="https://kaggle.com/ScarletMcLearn">Kaggle</a> •
   <a href="https://shorturl.at/LtSgS">QA Portfolio</a>
+  <a href="https://github.com/ScarletMcLearn/DataScience/tree/master/Public">Data Science Portfolio</a>
 </p>
 
 <p align="center">
