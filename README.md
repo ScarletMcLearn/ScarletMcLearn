@@ -2,7 +2,7 @@
   GitHub Profile README for: Syed Shams Elahi Ratul (Scarlet McLearn)
 -->
 
-<h1 align="center">Hi, I'm Syed Shams Elahi 👋</h1>
+<h1 align="center">Hi, I'm Syed Shams Elahi Ratul👋</h1>
 
 <h3 align="center">
   Senior QA Automation Engineer · SQA Lead · Applied Data Scientist
