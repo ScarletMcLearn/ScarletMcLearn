@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README for: Syed Shams Elahi (ScarletMcLearn)
+  GitHub Profile README for: Syed Shams Elahi Ratul (Scarlet McLearn)
 -->
 
 <h1 align="center">Hi, I'm Syed Shams Elahi 👋</h1>
