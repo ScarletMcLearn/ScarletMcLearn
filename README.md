@@ -21,6 +21,12 @@
   <img src="https://komarev.com/ghpvc/?username=ScarletMcLearn&style=flat-square" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://www.toptal.com/developers/resume/syed-shams-elahi#nOJolb" target="_blank">
+    <img src="https://img.shields.io/badge/Toptal-Top%203%25%20Talent-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Top 3% Talent" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💼 Snapshot
